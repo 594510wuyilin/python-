@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Course large weights, reference data, and local outputs (do not upload to GitHub)
+weights/
+assets/
+*.npz
+*.zip
